@@ -62,7 +62,7 @@ Este GitHub será o registro dessa evolução.
 ## 📫 Contato
 
 - **LinkedIn:** (https://www.linkedin.com/in/andrec-silva-dados/)
-- - **E-mail profissional:** (c.andresilva316@gmail.com)
+- **E-mail profissional:** (c.andresilva316@gmail.com)
 - **GitHub:** (https://github.com/Andre-Cavalcante-Dados)
 
 ---
